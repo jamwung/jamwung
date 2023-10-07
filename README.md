@@ -1,16 +1,4 @@
-﻿<style>
-.custom-font {
-    font-family: "Consolas", monospace;
-    font-size: 14px;
-    font-weight: bold;
-    color: #D2B48C;
-    background-color: #111111;
-    border-radius: 5px;
-    padding: 2.5px 10px;
-}
-</style>
-
-<h1 align=center>Hi, I'm Jam!</h1>
+﻿<h1 align=center>Hi, I'm Jam!</h1>
 
 <p align=justify>
   Welcome to my Hub!
