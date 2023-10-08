@@ -25,10 +25,7 @@ In this hub, you can find some of the data science projects that worked on. Have
 &nbsp&nbsp
   <a style="color: #DEB887; background-color: #111111; padding: 2.5px 10px; border-radius: 8px;" href='https://github.com/jamwung/dim-red-inquirer#readme'>dim-red-inquirer</a>&nbsp|&nbsp
   <a style="color: #DEB887; background-color: #111111; padding: 2.5px 10px; border-radius: 8px;" class=custom-font href='https://github.com/jamwung/recsys-amazon-reviews#readme'>recsys-amazon-reviews</a>&nbsp|&nbsp
-  <a style="color: #DEB887; background-color: #111111; padding: 2.5px 10px; border-radius: 8px;" href='https://github.com/jamwung/clustering-spotify#readme'>clustering-spotify</a>
-</div>
-
-<div alt="Data Mining" style="display: flex; align-items: center; flex: 1; margin: 5px; padding: 5px; font-weight: bold;">
+  <a style="color: #DEB887; background-color: #111111; padding: 2.5px 10px; border-radius: 8px;" href='https://github.com/jamwung/clustering-spotify#readme'>clustering-spotify</a>&nbsp|&nbsp
   <a style="color: #DEB887; background-color: #111111; padding: 2.5px 10px; border-radius: 8px;" href='https://github.com/jamwung/fim-e-commerce#readme'>fim-e-commerce</a>&nbsp|&nbsp
   <a style="color: #DEB887; background-color: #111111; padding: 2.5px 10px; border-radius: 8px;" href='https://github.com/jamwung/info-retrieval-inquirer#readme'>info-retrieval-inquirer</a>
 </div>
